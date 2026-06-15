@@ -59,6 +59,15 @@ def iniciar_creditos():
     "CONTROLE DE VERSÃO",
     "Arthur Rafael Silva Teixeira",
 
+    "ORGANIZAÇÃO DO PROJETO",
+    "Arthur Rafael Silva Teixeira",
+
+    "VERIFICAÇÃO DE VERSIONAMENTO",
+    "Arthur Rafael Silva Teixeira",
+
+    "DIRETOR DE QUALIDADE",
+    "Arthur Rafael Silva Teixeira",
+
     "DESIGN NARRATIVO",
     "Gabriel Carvalho Pires",
 
@@ -120,6 +129,18 @@ def iniciar_creditos():
     "Rafael Campello Veado",
 
     "MASCOTE OFICIAL",
+    "Rafael Campello Veado",
+
+    "MODELO",
+    "Rafael Campello Veado",
+
+    "DESENVOLVEDOR",
+    "Rafael Campello Veado",
+
+    "ATOR DE ÁUDIO",
+    "Rafael Campello Veado",
+
+    "ATOR",
     "Rafael Campello Veado",
 
     "GARANTIA DE QUALIDADE",
