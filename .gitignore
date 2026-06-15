@@ -21,6 +21,7 @@ virtualenv/
 
 # Misc
 .ai-jail
+mise.toml
 
 # IDE / Editors
 .vscode/
