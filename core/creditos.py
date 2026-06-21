@@ -27,37 +27,37 @@ def iniciar_creditos():
     "Gabriel R. C. Mendonça",
 
     "DESENVOLVEDOR PRINCIPAL",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "DIRETOR TÉCNICO",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "PROGRAMADOR PRINCIPAL",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "PROGRAMAÇÃO DE GAMEPLAY",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "PROGRAMAÇÃO DE SISTEMAS",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "PROGRAMAÇÃO DA ENGINE",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "PROGRAMAÇÃO DE FERRAMENTAS",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "IMPLEMENTAÇÃO",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "OTIMIZAÇÃO",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "GERENCIAMENTO DE BUILD",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "CONTROLE DE VERSÃO",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
 
     "DESIGN NARRATIVO",
     "Gabriel Carvalho Pires",
@@ -111,19 +111,19 @@ def iniciar_creditos():
     "Gabriel Carvalho Pires",
 
     "SUPORTE DA COMUNIDADE",
-    "Arthur Rafael da Silva Veado",
+    "Rafael Capim Soares",
 
     "APOIADOR DO PROJETO",
-    "Arthur Rafael da Silva Veado",
+    "Rafael Capim Soares",
 
     "MASCOTE DA EQUIPE",
-    "Arthur Rafael da Silva Veado",
+    "Rafael Capim Soares",
 
     "MASCOTE OFICIAL",
-    "Arthur Rafael da Silva Veado",
+    "Rafael Capim Soares",
 
     "GARANTIA DE QUALIDADE",
-    "Rafael Campello Soares",
+    "Arthur Rafael Silva Teixeira",
     "Gabriel Carvalho Pires",
     "Gabriel R. C. Mendonça",
 
